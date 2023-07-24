@@ -1,0 +1,6 @@
+#container{
+
+-fx-background-color: linear-gradient(to right, green , yellow, red);
+//-fx-background-color: linear-gradient(180deg, green , yellow, red);
+
+}
